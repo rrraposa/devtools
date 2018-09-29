@@ -1,2 +1,2 @@
 # devtools
-My develper tools
+Some common tools for my Python projects
